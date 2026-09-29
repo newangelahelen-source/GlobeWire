@@ -1,0 +1,589 @@
+# Translation of Themes - Flixita in Indonesian
+# This file is distributed under the same license as the Themes - Flixita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-02-09 12:58:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Flixita\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Flixita is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme.  View the demo of Flixita Pro https://demo.themesdaddy.com/flixita-pro/"
+msgstr "Kecepatan Secepat Kilat & Tema Responsif. Flixita adalah tema responsif dan dapat disesuaikan sepenuhnya untuk membuat segala jenis situs web. Panel admin tingkat lanjut akan memungkinkan Anda untuk menyesuaikannya tanpa pengetahuan teknis apa pun. Tema ini ringan, memungkinkan Anda membuat hampir semua jenis situs web seperti blog, portofolio, industri akting dan penembakan, berita trendi total, surat kabar, majalah besar, mode, tema gelap, perawatan hewan peliharaan, satwa liar, arsitektur kayu, pipa ledeng kontraktor, pengecatan estate, desain interior, furnitur kamar, dekorasi rumah, sifat bunga hijau, konstruksi, perusahaan, agensi ganda, promosi bisnis, variasi gelap, industri, Salon kecantikan & spa, fotografi, gym, kebugaran, kesehatan, medis, startup, agen bisnis, firma hukum, perjalanan, LSM, amal, yoga, pendidikan anak-anak, lembaga pelatihan, portal universitas, restoran, toko meta, majalah cepat, reksa dana, keuangan, akuntansi, konsultasi, situs web agen perjalanan. Tema sepenuhnya kompatibel dengan plugin WordPress populer seperti Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp untuk WordPress, bbPress, Importir Demo, WPForms, dan lainnya. Situs WordPress Anda tidak akan pernah kecewa dengan tema ini.  Lihat demo Flixita Pro https://demo.themesdaddy.com/flixita-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flixita"
+msgstr "Flixita"
+
+#: core/customizer/flixita-default-options.php:18
+msgid "Get in Touch"
+msgstr "Hubungi Kami"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:579
+msgid "Get started with %1$s"
+msgstr "Mulai dengan %1$s"
+
+#: core/core.php:573
+msgid "Install and activate <strong>Daddy Plus</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instal dan aktifkan plugin <strong>Daddy Plus</strong> untuk memanfaatkan sepenuhnya semua fitur yang ditawarkan tema ini."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:569
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Selamat datang! Terima kasih telah memilih %1$s!"
+
+#: core/core.php:562
+msgid "Theme Screenshot"
+msgstr "Tangkapan Layar Tema"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:22
+msgid "Share a Good Review"
+msgstr "Bagikan Ulasan yang Bagus"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Need Support ?"
+msgstr "Butuh bantuan ?"
+
+#: woocommerce/content-product.php:34
+msgid "Sale"
+msgstr "Obral"
+
+#: woocommerce/cart/mini-cart.php:134 woocommerce/cart/mini-cart.php:266
+msgid "No products in the cart."
+msgstr "Tidak ada produk di keranjang."
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:241
+msgid "Checkout"
+msgstr "Checkout"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:201
+msgid "Remove this item"
+msgstr "Hapus item ini"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:176
+msgid "Total:"
+msgstr "Total:"
+
+#: header.php:79
+msgid "Search Popup"
+msgstr "Pencarian Popup"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Halaman Lebar Penuh"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Halaman Depan"
+
+#: footer.php:7
+msgid "scrollingUp"
+msgstr "menggulir ke atas"
+
+#: core/theme-menu/class-bootstrap-navwalker.php:227
+msgid "Add a menu"
+msgstr "Tambahkan menu"
+
+#: core/customizer/flixita-panels-and-sections.php:60
+msgid "Footer Setting"
+msgstr "Pengaturan Catatan Kaki"
+
+#: core/customizer/flixita-panels-and-sections.php:52
+msgid "Blog Setting"
+msgstr "Pengaturan Blog"
+
+#: core/customizer/flixita-panels-and-sections.php:43
+msgid "Top Scroller Setting"
+msgstr "Pengaturan Penggulung Atas"
+
+#: core/customizer/flixita-panels-and-sections.php:36
+msgid "Page Header Setting"
+msgstr "Pengaturan Tajuk Halaman"
+
+#: core/customizer/flixita-panels-and-sections.php:31
+msgid "General Options"
+msgstr "Pilihan Umum"
+
+#: core/customizer/flixita-panels-and-sections.php:24
+msgid "Menu Bar Setting"
+msgstr "Pengaturan Bilah Menu"
+
+#: core/customizer/flixita-panels-and-sections.php:17
+msgid "Top Bar Setting"
+msgstr "Pengaturan Bilah Atas"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+#: core/customizer/flixita-panels-and-sections.php:11
+msgid "Upgrade to Pro"
+msgstr "Tingkatkan ke Pro"
+
+#: core/customizer/flixita-general.php:34
+msgid "Cart"
+msgstr "Keranjang"
+
+#: core/customizer/flixita-general.php:18
+msgid "Logo Size"
+msgstr "Ukuran Logo"
+
+#: core/customizer/flixita-default-options.php:29
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr "Hak cipta &salinan; {tahun ini}. Dibuat oleh %s. Didukung oleh %s."
+
+#: core/customizer/customizer.php:74
+msgid "Deactivate"
+msgstr "Menonaktifkan"
+
+#: core/customizer/customizer.php:73
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: core/customizer/customizer.php:72
+msgid "Install and Activate"
+msgstr "Instal dan Aktifkan"
+
+#: core/customizer/customizer.php:71
+msgid "Add More Features"
+msgstr "Tambahkan Lebih Banyak Fitur"
+
+#: core/customizer/customizer.php:70
+msgid "Recommended Actions"
+msgstr "Tindakan Wajib"
+
+#. translators: %s: plugin name
+#: core/customizer/customizer.php:64
+msgid "Recommended Plugin: If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "Plugin yang Direkomendasikan: Jika Anda ingin menampilkan semua fitur dan bagian bisnis di FrontPage. silakan instal dan aktifkan plugin %s"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:571
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Add Icon"
+msgstr "Tambah Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Remove Icon"
+msgstr "Hapus Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Social icons"
+msgstr "Sosial Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "None"
+msgstr "Tidak ada"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Image type"
+msgstr "Jenis gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Center"
+msgstr "Tengah"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: template-parts/content-page.php:69 template-parts/content.php:65
+msgid "Read More"
+msgstr "Baca selengkapnya"
+
+#: template-parts/content-page.php:45 template-parts/content.php:41
+msgid "Comments"
+msgstr "Komentar"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian bisa membantu."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan istilah pencarian Anda. Silakan coba lagi dengan beberapa kata kunci yang berbeda."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap untuk mempublikasikan posting pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: template-parts/author-details.php:36
+msgid "View All Post"
+msgstr "Lihat Semua Postingan"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/author-details.php:26
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "Anda belum memasukkan Informasi Biografi Anda. %1$sEdit Profil Anda%2$s sekarang."
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Pencarian untuk:"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "Halaman Pembangun"
+
+#: header.php:132
+msgid "Header Close Menu"
+msgstr "Menu Tutup Tajuk"
+
+#: header.php:123
+msgid "Menu Collaped"
+msgstr "Menu Ciutkan"
+
+#: header.php:86
+msgid "Search Popup Close"
+msgstr "Tutup Popup Pencarian"
+
+#: header.php:83
+msgid "Type To Search"
+msgstr "Ketik untuk mencari"
+
+#: header.php:82
+msgid "Site Search"
+msgstr "Pencarian Situs"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Right"
+msgstr "Kanan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:517
+msgid "Left"
+msgstr "Kiri"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:513
+msgid "Align"
+msgstr "Meluruskan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:505
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:502
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Image"
+msgstr "Gambar"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:467
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Catatan: Beberapa ikon mungkin tidak ditampilkan di sini. Anda dapat melihat daftar lengkap ikon di %1$s."
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:461
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "Icon"
+msgstr "Ikon"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:450
+msgid "Open link in new tab:"
+msgstr "Buka tautan di tab baru:"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+msgid "Delete field"
+msgstr "Hapus isian"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+msgid "Delete %s"
+msgstr "Hapus %s"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:278
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:384
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:269
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:394
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:563
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+#: core/customizer/flixita-general.php:129
+msgid "Link"
+msgstr "Tautan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:261
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Button Label"
+msgstr "Label Tombol"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:254
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:369
+msgid "Description"
+msgstr "Keterangan"
+
+#: core/core.php:360
+msgid "Tag Archives: %s"
+msgstr "Arsip Tag: %s"
+
+#: core/core.php:358
+msgid "Category Archives: %s"
+msgstr "Arsip Kategori: %s"
+
+#: core/core.php:356
+msgid "Yearly Archives: %s"
+msgstr "Arsip Tahunan: %s"
+
+#: core/core.php:354
+msgid "Monthly Archives: %s"
+msgstr "Arsip Bulanan: %s"
+
+#: core/core.php:352
+msgid "Daily Archives: %s"
+msgstr "Arsip Harian: %s"
+
+#: core/core.php:330 header.php:63 woocommerce/cart/mini-cart.php:39
+#: woocommerce/cart/mini-cart.php:122 woocommerce/cart/mini-cart.php:169
+#: woocommerce/cart/mini-cart.php:254
+msgid "0"
+msgstr ""
+
+#: core/core.php:231
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Area Widget ini untuk Widget WooCommerce"
+
+#: core/core.php:229
+msgid "WooCommerce Sidebar"
+msgstr "Sidebar WooCommerce"
+
+#: core/core.php:215
+msgid "Footer  Sidebar 4"
+msgstr "Footer  Sidebar 4"
+
+#: core/core.php:217
+msgid "The Footer Widget Area 4"
+msgstr "The Footer Widget Area 4"
+
+#: core/core.php:204
+msgid "The Footer Widget Area 3"
+msgstr "The Footer Widget Area 3"
+
+#: core/core.php:202
+msgid "Footer  Sidebar 3"
+msgstr "Footer  Sidebar 3"
+
+#: core/core.php:191
+msgid "The Footer Widget Area 2"
+msgstr "The Footer Widget Area 2"
+
+#: core/core.php:189
+msgid "Footer  Sidebar 2"
+msgstr "Footer  Sidebar 2"
+
+#: core/core.php:178
+msgid "The Footer Widget Area 1"
+msgstr "The Footer Widget Area 1"
+
+#: core/customizer/flixita-general.php:288
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: core/customizer/flixita-general.php:275
+msgid "Footer  Copyright"
+msgstr "Footer  Hak Cipta"
+
+#: core/customizer/flixita-general.php:259
+msgid "Content"
+msgstr "Isi"
+
+#: core/customizer/flixita-general.php:258
+msgid "Meta"
+msgstr "Meta"
+
+#: core/customizer/flixita-general.php:254
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "Drag & Drop item postingan untuk mengatur ulang urutannya dan juga menyembunyikan serta menampilkan item sesuai kebutuhan dengan mengklik ikon mata."
+
+#: core/customizer/flixita-general.php:243
+msgid "Blog/Archive/Single"
+msgstr "Blog/Arsip/Lajang"
+
+#: core/customizer/flixita-general.php:227
+msgid "Overlay Color"
+msgstr "Warna Hamparan"
+
+#: core/customizer/flixita-general.php:214
+msgid "Opacity"
+msgstr "Opasitas"
+
+#: core/customizer/flixita-general.php:187
+msgid "Page Header"
+msgstr "Header Laman"
+
+#: core/customizer/flixita-general.php:158
+msgid "Sticky Header"
+msgstr "Tajuk Lengket"
+
+#: core/customizer/flixita-general.php:141
+msgid "Open in New Tab ?"
+msgstr "Buka di Tab Baru?"
+
+#: core/customizer/flixita-general.php:115
+msgid "Label"
+msgstr "Label"
+
+#: core/customizer/flixita-general.php:88
+msgid "Button"
+msgstr "Tombol"
+
+#: core/customizer/flixita-general.php:61 searchform.php:9 searchform.php:11
+msgid "Search"
+msgstr "Pencarian"
+
+#: core/customizer/flixita-general.php:47
+#: core/customizer/flixita-general.php:74
+#: core/customizer/flixita-general.php:100
+#: core/customizer/flixita-general.php:169
+#: core/customizer/flixita-general.php:200
+msgid "Enable / Disable ?"
+msgstr "Aktifkan / Nonaktifkan?"
+
+#: core/core.php:176
+msgid "Footer  Sidebar 1"
+msgstr "Footer  Sidebar 1"
+
+#: core/core.php:163 core/core.php:165
+msgid "Main Sidebar Widget"
+msgstr "Widget Bilah Sisi Utama"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:26 comments.php:40
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: comments.php:25 comments.php:39
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:23 comments.php:37
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-12"
+msgstr "col-lg-12"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-8"
+msgstr "col-lg-8"
+
+#: 404.php:16
+msgid "Go Home Page"
+msgstr "Buka Halaman Beranda"
+
+#: 404.php:14
+msgid "The page you are looking is not available or has been removed."
+msgstr "Halaman yang Anda cari tidak tersedia atau telah dihapus."
+
+#: 404.php:13
+msgid "404 Page Not Found"
+msgstr "404 Halaman Tidak Ditemukan"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:360
+msgid "Subtitle 2"
+msgstr "Subtitle 2"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:238
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:230
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: core/customizer/flixita-general.php:257
+msgid "Title"
+msgstr "Judul"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "Duplikator Penyesuai"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "Tambah isian baru"
+
+#: core/customizer/customizer-notice/flixita-customizer-notify.php:114
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#: core/core.php:527
+msgid "Page"
+msgstr "Laman"
+
+#: core/core.php:521
+msgid "Error 404 "
+msgstr "Error 404 "
+
+#: core/core.php:516
+msgid "Articles posted by "
+msgstr "Artikel diposting oleh "
+
+#: core/core.php:509
+msgid "Posts tagged "
+msgstr "Postingan diberi tag "
+
+#: core/core.php:394
+msgid "Search results for "
+msgstr "Hasil pencarian "
+
+#: core/core.php:388
+msgid "Archive by category"
+msgstr "Arsipkan berdasarkan kategori"
+
+#: core/core.php:382
+msgid "Home"
+msgstr "Beranda"
+
+#: core/core.php:364
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: core/core.php:362
+msgid "Error 404"
+msgstr "Error 404"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/flixita-free/"
+msgstr "https://themesdaddy.com/themes/flixita-free/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"
